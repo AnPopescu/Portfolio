@@ -2,5 +2,5 @@
 layout: default
 permalink: /
 ---
-![Image]({{ site.baseurl }}/_resources/profileMe.jpg)
+![Image]({{ site.baseurl }}/blob/main/_resources/profileMe.jpg)
 {% include landing.html %}
