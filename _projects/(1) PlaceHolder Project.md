@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
+name: Snails And Vikings Prototype 1
+tools: [Unreal Engine, Blueprints]
 image: /Portfolio/assets/profileMe.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: First iteration of a hack and slash advenbture in the lands of vikings with a fun twist of having a snail as a companion.
 external_url: https://www.google.com
 ---

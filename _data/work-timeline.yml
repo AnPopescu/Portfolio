@@ -1,0 +1,38 @@
+- title: Game Developer - Retina Film Production
+  from: 2021
+  to: present
+  bullets: ['Developing gameplay mechanics, game logic, working with animators, creating shaders and level designing',
+            'Using debugging techniques to identify issues with computer code and resolve errors',
+            'Developed game-related editor tools and scripts to facilitate game development',
+            'Created prototypes based upon design ideas using programming languages such as C++ and C#',
+            'Mentored newly hired and junior developers in onboarding and working procedures',
+            'Developed 2D and 3D games for PC and mobile platforms using Unity 3D/Unreal Engine',
+            'Designed and implemented gameplay mechanics and interactive elements for multiple titles',
+            'Leveraged design patterns to create fl exible and scalable game systems, such as AI, UI, inventory and other gameplay systems.']
+  description:  
+            
+
+- title: Computer System Engineer - Expleo Group
+  from: 04.2019
+  to: 12.2019
+  bullets:
+  description: First job after finishing my Bachelor's Degree. Here I learned how scripting can be a good ally in 
+                ensuring the software does not have any flaws. I did both automated software and hardware testing based
+                on tehnical documentaion on car control systems.
+
+- title: QA Tester - Electronic Arts
+  bullets: 
+  description: This was my first job during my student years, here I learned how important teamwork is ,
+               how to be able to pinpoint bugs and how an organised work environment can raise productivity and
+               game developement.
+               I was fascinated by the whole process of QA and that is why I learned to use tools and testing tehniques
+               such as Functional, System, Acceptance, Regression , Performance testing etc..
+               Due to my ambition and atention to detail I was able to spot some design flaws that eventualy got changed from Battlefield 1.
+               <p>Primary Games/Software that I tested on:</p>
+               - Battlefield 1 , Battlefield Hub Integration 
+               <p></p>
+               <p>Secondary</p>
+               - Titanfall , FIFA 2017 , Star Wars Battlefront II
+
+  from: 06.2017
+  to: 10.2017

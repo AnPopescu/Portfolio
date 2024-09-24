@@ -1,11 +1,15 @@
-- name: HTML5/CSS3
+- name: C++
   percentage: 90
-  color: danger
+  color: primary
 
-- name: Go
+- name: C#
   percentage: 80
-  color:
+  color: primary
 
-- name: Python
+- name: Unreal Engine
   percentage: 70
-  color: secondary
+  color: primary
+
+- name: Unity
+  percentage: 70
+  color: primary

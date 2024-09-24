@@ -1,7 +1,27 @@
-- name: Adobe Photoshop
+- name: Python3
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
+- name: SQL
   percentage: 90
-  color: success
+  color: info
+
+- name: Java
+  percentage: 95
+  color: info
+
+- name: OpenGL
+  percentage: 95
+  color: info
+
+- name: Maya
+  percentage: 95
+  color: info
+
+- name: Git
+  percentage: 95
+  color: info
+
+- name: GIMP
+  percentage: 95
+  color: info
