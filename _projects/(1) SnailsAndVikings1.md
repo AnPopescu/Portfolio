@@ -9,6 +9,9 @@ description: First iteration of a hack and slash adventure in the lands of vikin
 
 A hack and slash experience with different environment arenas containing waves of enemies.
 
+Players control a band of Vikings and their Snail allies,
+tasked with defending the realms of Yggdrasil. As you journey through the world tree , you'll face waves of mythical creatures and choose which realm to conquernext. 
+
 {% capture carousel_images %}
 {{site.baseurl}}/images/Projects/SnailAndVikings1/SnailAndVikings1_CharacterCustomization.png
 {{site.baseurl}}/images/Projects/SnailAndVikings1/SnailAndVikings1_EditorGameplay.png

@@ -7,7 +7,7 @@ description: Second Iteration of the same concept of Snails And Vikings with new
 
 # Snails And Vikings Prototype 2
 
-Demo
+In this version of Snails And Vikings , players embark on an epic adventure as a Viking-snail duo, exploring the mystical realm of Yggdrasil. Currently stranded on a bandit-infested island, you'll need to use your unique abilities to complete quests, defeat enemies, and uncover the secrets of this fantastical world.
 
 ---
 
@@ -18,6 +18,7 @@ Demo
 * Animation Blending
 * Hack And Slash + Abilities (Combat type)
 * Save System (Persistance) – Progress System – Quest System
+
 ---
 
 {% capture carousel_images %}
@@ -31,6 +32,3 @@ Demo
 {% include elements/carousel.html %}
 ---
 
-<p class="text-center">
-{% include elements/button.html link="https://github.com/yousinix/portfolYOU" text="Learn More" %}
-</p>
