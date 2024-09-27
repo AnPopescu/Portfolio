@@ -54,6 +54,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  projectsper:
+    output: true
+    permalink: /projectsper/:name
 
 
 
@@ -84,6 +87,11 @@ defaults:
   - scope:
       path: ""
       type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "projectsper"
     values:
       layout: "page"
   - scope:
