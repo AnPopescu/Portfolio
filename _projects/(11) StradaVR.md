@@ -9,7 +9,7 @@ external_url:
 
 ## Concept
 
-Step into the shoes of a wheelchair user navigating a bustling city in this immersive VR experience. Encounter everyday challenges faced by those with limited mobility, such as crowded sidewalks, inaccessible buildings, and unexpected obstacles. Experience firsthand the frustration and inconvenience of trying to get around when basic needs are not met and sometimes can be lethal. This thought-provoking experience aims to raise awareness about the barriers faced by wheelchair users and inspire empathy and understanding.
+Experience the life of an wheelchair user navigating a bustling city in this immersive VR experience. Encounter everyday challenges faced by those with limited mobility, such as crowded sidewalks, inaccessible buildings, and unexpected obstacles. Experience firsthand the frustration and inconvenience of trying to get around when basic needs are not met and sometimes can be lethal. This thought-provoking experience aims to raise awareness about the barriers faced by wheelchair users and inspire empathy and understanding.
 
 The experience last about ~2 min and is intended to be played in an actual wheelchair.
 
